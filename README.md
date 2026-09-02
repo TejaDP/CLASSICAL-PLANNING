@@ -107,10 +107,8 @@ print("Example 2 Output:", plan_2)
 # Output:
 ```
 ['move_A_to_B', 'move_B_to_C']
-
-![Uploading image.png…]()
-
 ```
+<img width="1425" height="772" alt="image" src="https://github.com/user-attachments/assets/9563c97d-b553-4343-a699-1a4139789509" />
 
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
